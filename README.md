@@ -39,7 +39,7 @@ python manage.py runserver
 ## Стек технологий:
 - Django 4.2
 - Python 3.9
-- DRF 3.14
+- Django Rest Framework 3.14
 - SQLite
 
 ## Автор:
