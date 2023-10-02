@@ -11,10 +11,10 @@ git clone git@github.com:sntchweb/products.git
 ```
 
 Создайте и активируйте вертуальное окружение:
-  ```
-  python -m venv venv
-  source venv\Scripts\activate
-  ```
+```
+python -m venv venv
+source venv\Scripts\activate
+```
 
 Установите зависимости:
 ```
